@@ -4,7 +4,7 @@ I hide myself under the name Darth Artikus here, and "ArTus" on Discord.
 
 ### About me
 
-I am an Sci-Fi-Lover and I enjoy drawing some Art. I also build and program Arduino Stuff. And: I work on a public Star trek Wiki :D
+I am an Sci-Fi-Lover and I enjoy drawing some Art. I also build and program Arduino Stuff. And: I work on a public Star Trek Adventures Wiki :D
 
 ### Languages/Frameworks
 
