@@ -63,4 +63,5 @@ I own, maintain and work on some projects.
 
 | Project Name | Description | Release | Rank |
 |--------------|-------------|---------|------|
-| [STA Wiki](https://sta.pletix.org/wiki/) | A Star Trek Wiki | ✅ Live - Work in progress | 👥 Team-Project |
+| [STA Wiki (RT](https://wiki.pletix.org/) | A Star Trek Adventures Wiki | ✅ Live - Work in progress | 👥 Team-Project |
+| [STA Wiki](https://sta.pletix.org/wiki/) | A Star Trek Adventures Wiki | ✅ Live - Work in progress | 👥 Team-Project |
