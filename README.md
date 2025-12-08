@@ -6,6 +6,8 @@ I hide myself under the name Darth Artikus here, and "ArTus" on Discord.
 
 I am an Sci-Fi-Lover and I enjoy drawing some Art. I also build and program Arduino Stuff. And: I work on a public Star Trek Adventures Wiki :D
 
+Additional am I trying to bring my ideas in Minecraft to life xD
+
 ### Languages/Frameworks
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -14,10 +16,13 @@ I am an Sci-Fi-Lover and I enjoy drawing some Art. I also build and program Ardu
 <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+<br>
+![Java]
 
 
 ### IDE's
 
+![Intellij]
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%230db7ed.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -67,3 +72,4 @@ I own, maintain and work on some projects.
 | [STA Wiki (RT) V2.0](https://sta.pletix.org/wiki/) | A Star Trek Adventures Wiki - Version 2.0 | ✅ Live and broken - Relesed January 2025 | 👥 Single-Project |
 | [STA Wiki (RT) V3.0](https://sta-wiki.pletix.org/) | A Star Trek Adventures Wiki | ✅ Live - Work in progress | 👥 Single-Project |
 | [Dockingbay 42](https://dockingbay42.eu/) | Dockingbay 42 Webpage | ✅ Live - Work in progress | 👥 Team-Project |
+| [Tutorial Mod 2 - for Minecraft 1.21]([https://wiki.pletix.org/](https://github.com/darthartikus/tutorial-mod-2-template-1.21)) | My first Minecraft Mod for Minecraft 1.21 Fabric | ✅ Live - Released December 2025 | 👥 Single-Project |
