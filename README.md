@@ -47,7 +47,7 @@ Additional am I trying to bring my ideas in Minecraft to life xD
 ### OS
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Linux Mint 22.3 'Zena']([https://linuxmint.com/](https://linuxmint.com/web/img/logo-mono.svg))
+![Linux Mint 22.3 'Zena']([https://linuxmint.com/web/img/logo-mono.svg])
 
 ### Social Media
 
