@@ -1,6 +1,6 @@
 # Hey! #
 
-I hide myself under the name Darth Artikus here, and "ArTus" on Discord.
+I hide myself under the name Darth Artikus here and on Discord.
 
 ### About me
 
