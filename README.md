@@ -69,8 +69,8 @@ I own, maintain and work on some projects.
 
 | Project Name | Description | Release | Rank |
 |--------------|-------------|---------|------|
-| [STA Wiki (RT) V1.0](https://wiki.pletix.org/) | A Star Trek Adventures Wiki - Version 1.0 | ✅ Live - Released December 2023 | 👥 Single-Project |
-| [STA Wiki (RT) V2.0](https://sta.pletix.org/wiki/) | A Star Trek Adventures Wiki - Version 2.0 | ✅ Live and broken - Relesed January 2025 | 👥 Single-Project |
-| [STA Wiki (RT) V3.0](https://sta-wiki.pletix.org/) | A Star Trek Adventures Wiki | ✅ Live - Work in progress | 👥 Single-Project |
+| [STA Wiki (RT) V1.0](https://wiki.pletix.org/) | A Star Trek Adventures Wiki - Version 1.0 | X Down - Released December 2023 | 👥 Single-Project |
+| [STA Wiki (RT) V2.0](https://sta.pletix.org/wiki/) | A Star Trek Adventures Wiki - Version 2.0 | X Down - Relesed January 2025 | 👥 Single-Project |
+| [STA Wiki (RT) V3.0](https://sta-wiki.pletix.org/) | A Star Trek Adventures Wiki | X Down | 👥 Single-Project |
 | [Dockingbay 42](https://dockingbay42.eu/) | Dockingbay 42 Webpage | ✅ Live - Work in progress | 👥 Team-Project |
 | [Tutorial Mod 2 - for Minecraft 1.21]([https://wiki.pletix.org/](https://github.com/darthartikus/tutorial-mod-2-template-1.21)) | My first Minecraft Mod for Minecraft 1.21 Fabric | ✅ Live - Released December 2025 | 👥 Single-Project |
